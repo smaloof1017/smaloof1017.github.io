@@ -16,5 +16,5 @@
       text-align: center; background-color: white; width:800px;
 }
 
-#steven-Pic2 { float:bottom; }
-#steven-Pic { float:left; }
+#steven-Pic2 { float:bottom; width:100px;}
+#steven-Pic { float:left; width:100px;}
