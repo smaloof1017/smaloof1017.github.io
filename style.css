@@ -3,6 +3,8 @@
       h1 {color:#98FB98;}
       p {color:#33FF52;}
 
-.textDiv {text-allign:center;}
+.mainDiv {
+      text-allign: center; background-color: white;
+}
 .banner {allign:center;}
 .nav_content{allign:center;}
